@@ -3,8 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
-![Status](https://img.shields.io/badge/Status-Prototype-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
@@ -38,12 +37,6 @@ Telugu is one of the major languages spoken in India but lacks robust translatio
 ---
 
 ## 📚 Dataset
-
-This project uses a **manually created small dataset** of parallel Telugu-English sentences for demonstration purposes. You can easily scale this up using:
-
-- [AI4Bharat](https://ai4bharat.iitm.ac.in/indictrans/)
-- [Tatoeba Project](https://tatoeba.org/)
-- [OpenSubtitles via OPUS](https://opus.nlpl.eu/OpenSubtitles-v2018.php)
 
 Sample pairs:
 
